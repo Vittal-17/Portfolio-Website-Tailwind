@@ -17,3 +17,7 @@ A simple responsive portfolio website built using HTML, CSS, and Tailwind CSS.
 - Dark mode
 - Contact form
 - React version
+
+## Screeenshots
+### Home Page
+![Home](images/project1.png)

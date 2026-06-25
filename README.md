@@ -4,7 +4,7 @@ A simple responsive portfolio website built using HTML, CSS, and Tailwind CSS.
 
 ## Live Demo 🌐
 
-🔗 https://portfolio-website-tailwind-3iafigpjf-vittal.vercel.app
+🔗 portfolio-website-tailwind-sage.vercel.app
 
 ## Features ✨
 - Responsive layout

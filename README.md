@@ -24,3 +24,9 @@ A simple responsive portfolio website built using HTML, CSS, and Tailwind CSS.
 
 ### About Me and Projects
 ![AboutMenProjects](images/aboutmenprojects.png)
+
+## Author
+
+**Vittal J G**
+
+GitHub: https://github.com/Vittal-17

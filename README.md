@@ -20,4 +20,4 @@ A simple responsive portfolio website built using HTML, CSS, and Tailwind CSS.
 
 ## Screeenshots
 ### Home Page
-![Home](images/project1.png)
+![Home](images/project2.png)
